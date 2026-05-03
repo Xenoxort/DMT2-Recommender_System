@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+.venv/
+recsys/
+conda-meta/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (IMPORTANT for your assignment)
+data/
+*.csv
+*.zip
